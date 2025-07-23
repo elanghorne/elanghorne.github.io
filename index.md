@@ -17,7 +17,7 @@ iOS apps with Swift, exploring weather APIs for a notification-based app, or dig
 of computer vision for an accessibility tool I call [ColorMatch](https://github.com/elanghorne/ColorMatch).
 
 I’m particularly interested in projects that bridge utility and creativity: apps that help people live better,  
-tools that enhance accessibility, and experiments that deepen my understanding of the full development stack.  
+tools that enhance accessibility, and experiments that deepen my understanding of the full development stack.   
 
 Outside of programming, I enjoy cooking, reading, various sports, and diving into systems-level topics like operating systems and circuits.
 
