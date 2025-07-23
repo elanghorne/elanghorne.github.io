@@ -19,7 +19,7 @@ I’m particularly interested in projects that bridge utility and creativity: ap
 tools that enhance accessibility, and experiments that deepen my understanding of the full development stack.  
 Outside of programming, I enjoy cooking, reading, various sports, and diving into systems-level topics like operating systems and circuits.
 
-This site is a portfolio with project highlights, contact info, and what I’m currently building.
+This site is a portfolio of my work.
 
 ---
 ## Projects
