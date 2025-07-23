@@ -1,1 +1,11 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-midnight
+
+title: Eric Langhorne
+email: langhoec@mail.uc.edu
+
+baseurl: "" 
+url: "https://elanghorne.github.io" 
+
+# Build settings
+markdown: kramdown
+plugins: []
