@@ -4,6 +4,7 @@ title: Home
 ---
 
 ## Welcome
+![Eric Langhorne](assets/eric.jpg){: style="float: left; border-radius: 10px; margin-right: 20px; width: 140px;" }
 
 Hello! My name is Eric Langhorne. I’m a second-year computer science student at the University of Cincinnati
 with a passion for building intuitive, helpful software and solving real-world problems with code.
